@@ -1,0 +1,14 @@
+.rep{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+body{
+    background-color:##D0D3D4;
+}
+h1 {
+    font-size: 35px;
+}
+.rep__pic{
+   width: 250px;
+}
