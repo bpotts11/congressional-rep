@@ -4,11 +4,37 @@
     justify-content: center;
 }
 body{
-    background-color:##D0D3D4;
+    background-color: #cccccec2;
 }
 h1 {
-    font-size: 35px;
+    font-size: 45px;
 }
 .rep__pic{
-   width: 250px;
+    border-radius: 50%;
+    border: 4px solid #050A76;
+    width: 250px;
+}
+
+article{
+    margin: 40px;
+    padding: 100px 50px;
+    border: 7px solid #050A76;
+}
+
+p, ul, a{
+    font-size: 20px;
+    margin: 0;
+}
+
+h1, p, ul, li, a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #760505;
+}
+
+.rep__commitList{
+    margin-top: 25px;
+}
+
+.rep__commitees{
+    font-weight: bold;
 }
